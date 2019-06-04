@@ -1,8 +1,8 @@
 name: GraphQL Metatag
 type: module
-description: 'Adds support for metatags.'
+description: 'Adds GraphQL support for Metatags.'
 package: GraphQL
 core: 8.x
 dependencies:
-  - graphql_core
-  - metatag
+  - graphql:graphql
+  - metatag:metatag
